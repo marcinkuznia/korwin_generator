@@ -9,10 +9,10 @@ const quotes1 = [
     '"Proszę zwrócić uwagę, że ',
     '"Gdzie leży przyczyna problemu? Ja państwu odpowiadam: ',
     '"Ja nie potrzebowałem edukacji seksualnej aby wiedzieć, że ',
-    'No niestety: ',
-    'To ja przepraszam bardzo ',
-    'Yyyyyy... ',
-    'Jak powiedział wybitny krakowianin, Stanisław Lem ',
+    '"No niestety: ',
+    '"To ja przepraszam bardzo ',
+    '"Yyyyyy... ',
+    '"Jak powiedział wybitny krakowianin, Stanisław Lem ',
 ]
 
 const quotes2 = [
